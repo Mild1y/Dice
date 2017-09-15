@@ -15,9 +15,9 @@ void draw()
 		}
 	}
 	System.out.println(sum);
-	fill(255);
+	fill(0,0,255);
 	rect(365,740,100,50);
-	fill(0);
+	fill(255);
 	text("Total " + sum,390,755,50);
 }
 void mousePressed()
