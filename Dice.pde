@@ -15,7 +15,6 @@ void draw()
 			un.show();
 		}
 	}
-	System.out.println(sum);
 	fill(0,0,255);
 	rect(365,740,100,50);
 	fill(255);
